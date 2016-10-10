@@ -1,0 +1,3 @@
+library(WGCNA)
+?collapseRows
+?bicfa
