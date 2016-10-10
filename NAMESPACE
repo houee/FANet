@@ -1,6 +1,0 @@
-export(emfas.ccdlasso,Construct.BioMatrix,MatBioPrep,SparseEmfaBio,BioContribution,table2binmatrix,bicfa,nbfactors)
-import(biomaRt)
-import(WGCNA)
-import(corpcor)
-import(dynamicTreeCut)
-useDynLib(FANet)
